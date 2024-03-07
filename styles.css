@@ -20,7 +20,7 @@ body {
 
 /* SportsTxt Intro */
 #home-img-container {
-    background: url('../assets/durant-twitter.png');
+    background: url('./sports-txt-webpage/assets/durant-twitter.png');
     background-size: cover;
     background-position: center;
 }
